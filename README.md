@@ -11,7 +11,7 @@ I wanted to try more complicated analysis, such as using API, but seemingly it i
 |chart title|source|
 |---|---|
 |Gender gap is huge in Japanese newsroom|[Japan Federation of Newspaper Workers' Unions](http://shimbunroren.or.jp/wp-content/uploads/2020/04/20200306MIC-1.pdf)|
-|Mostly Less than 10%|[[Router's Institute](https://reutersinstitute.politics.ox.ac.uk/women-and-leadership-news-media-2021-evidence-12-markets),[Japan Federation of Newspaoer Workers' Union](http://shimbunroren.or.jp/wp-content/uploads/2020/04/20200306MIC-1.pdf)|
+|Mostly Less than 10%|[Router's Institute](https://reutersinstitute.politics.ox.ac.uk/women-and-leadership-news-media-2021-evidence-12-markets),[Japan Federation of Newspaoer Workers' Union](http://shimbunroren.or.jp/wp-content/uploads/2020/04/20200306MIC-1.pdf)|
 |licorice|A+|
 
 #Summary of the data collection process, with links
